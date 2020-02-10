@@ -1,0 +1,31 @@
+HTML 5  - 5 Classes
+------------------------
+Website using HTML5, CSS.
+GITHUB
+------------------------
+Domain - bigbengroups.com
+
+Required Hosting.
+-------------------------
+GITHUB - KornKarthik1
+
+
+IDE - Integrated Dev Env
+
+VSCODE  - 
+ATOM
+SublineText
+==============================
+Github
+
+
+git init
+git commit
+git remote add  https://github.com/narasimhareddyprostack/Fullstack1to1-feb.git
+
+git push -f origin master
+
+git pull origin master
+
+
+
